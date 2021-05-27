@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41876" started-at="2021-05-24T17:46:51 IST" finished-at="2021-05-24T17:47:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41876" started-at="2021-05-24T17:46:51 IST" finished-at="2021-05-24T17:47:33 IST">
+      <class name="com.ita.tests.HomePageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.ita.tests.HomePageTest@1f9e9475]" name="openBrowser" is-config="true" duration-ms="6" started-at="2021-05-24T17:46:51 IST" finished-at="2021-05-24T17:46:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.ita.tests.HomePageTest@1f9e9475]" name="initialize" is-config="true" duration-ms="7935" started-at="2021-05-24T17:46:51 IST" finished-at="2021-05-24T17:46:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="verifyHomePage()[pri:1, instance:com.ita.tests.HomePageTest@1f9e9475]" name="verifyHomePage" duration-ms="23852" started-at="2021-05-24T17:46:59 IST" finished-at="2021-05-24T17:47:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method status="PASS" signature="addFile()[pri:2, instance:com.ita.tests.HomePageTest@1f9e9475]" name="addFile" duration-ms="10043" started-at="2021-05-24T17:47:23 IST" finished-at="2021-05-24T17:47:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFile -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.ita.tests.HomePageTest@1f9e9475]" name="closeBrowser" is-config="true" duration-ms="1432" started-at="2021-05-24T17:47:33 IST" finished-at="2021-05-24T17:47:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.ita.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
